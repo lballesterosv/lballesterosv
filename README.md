@@ -16,7 +16,7 @@
 - 🌱 J'apprends actuellement l'assurance qualité et les tests d'applications.
 - 😄 J'aimerais explorer le sujet du cloud computing!
 - ⚡ Fun fact: J'ai un diplôme universitaire en Design Industriel et j'ai commencé ma réorientation de carrière en 2021.
-- 📝 [Resume](https://mywebsite/Resume.pdf).
+- 📝 [CV](https://mywebsite/Resume.pdf) *en construction.
 ---
 
 ### Langages et outils :
