@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, Je suis Laura Ballesteros.</h1>
-<h3 align="center">(future) Programmeuse analyste résidant au Canada.</h3>
+<h1 align="center">Salut 👋, je m'appelle Laura.</h1>
+<h3 align="center">(future) Programmeuse-analyste résidant au Canada.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
   <br><br>
@@ -12,10 +12,10 @@
 
 ### À propos de moi: 
 
-- 👩 Actuellement étudiante de dernière session en "Programmation orientée objet et technologies Web" au Collège de Rosemont.
-- 🌱 J'apprends actuellement l'assurance qualité et les tests d'applications.
+- 👩 Je suis étudiante de dernière session en "Programmation orientée objet et technologies Web" au Collège de Rosemont.
+- 🌱 Actuellement j'apprends sur l'assurance qualité et les tests d'applications.
 - 😄 J'aimerais explorer le sujet du cloud computing!
-- ⚡ Fun fact: J'ai un diplôme universitaire en Design Industriel et j'ai commencé ma réorientation de carrière en 2021.
+- ⚡ Fun fact: J'ai un diplôme universitaire en Design Industriel, j'ai commencé ma réorientation de carrière en 2021.
 - 📝 [CV](https://mywebsite/Resume.pdf) *en construction.
 ---
 
