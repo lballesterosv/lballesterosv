@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je m'appelle Laura.</h1>
-<h3 align="center">(future) Programmeuse-analyste résidant au Canada.</h3>
+<h3 align="center">Programmeuse-analyste résidant au Canada.</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
   <br><br>
