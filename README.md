@@ -9,16 +9,6 @@
 </div>
   
 ---
-
-### À propos de moi: 
-
-- 👩 Je suis étudiante de dernière session en "Programmation orientée objet et technologies Web" au Collège de Rosemont.
-- 🌱 Actuellement j'apprends sur l'assurance qualité et les tests d'applications.
-- 😄 J'aimerais explorer le sujet du cloud computing!
-- ⚡ Fun fact: J'ai un diplôme universitaire en Design Industriel, j'ai commencé ma réorientation de carrière en 2021.
-- 📝 [CV](https://mywebsite/Resume.pdf) *en construction.
----
-
 ### Langages et outils :
 
 <div>
